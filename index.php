@@ -31,8 +31,9 @@
     <h3>Exercice 8</h3>
     <p>Afficher la date du jour - 22 jours.</p>
 
-    <h3>BONUS</h3>
+    <h3>TP - Calendrier</h3>
     <p>Faire un formulaire avec deux listes déroulantes. La première sert à choisir le mois, et le deuxième permet d'avoir l'année.</p>
+    <p>En fonction des choix, afficher un calendrier.</p>
 </div>
 
 <?php include 'footer.php' ?>

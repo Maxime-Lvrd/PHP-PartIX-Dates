@@ -21,10 +21,10 @@ h3 {
 .col-6 {
     border-radius: 5px;
 }
-button {
+button, .button {
     border-radius: 5px;
     border: 1px solid white;
     background-color: white;
-    width: 20%;
+    width: 30%;
     margin-top: 5px;
 }

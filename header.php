@@ -42,6 +42,6 @@
             <a class="nav-link" href="exercice8.php">Exercice 8</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="tpbonus.php">TP - Bonus</a>
+            <a class="nav-link" href="calendar.php">TP - Calendrier</a>
         </li>
     </ul>
